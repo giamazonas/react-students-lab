@@ -1,8 +1,9 @@
-import logo from "./logo.svg";
 import "./App.css";
 import Student from "./Student";
+import Header from "./Header";
 
 function App() {
+  <Header />
   const students = [
     {
       name: "Cait Yomorta",
