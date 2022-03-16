@@ -1,6 +1,7 @@
 import "./App.css";
 import Student from "./Student";
 import Header from "./Header";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   <Header />

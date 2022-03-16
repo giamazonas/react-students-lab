@@ -8,10 +8,11 @@ html {
 
 .studentList {
   color: whitesmoke;
+  background-color: rgb(2, 2, 49);
 }
 
 .card-body {
-
+  /* color: navy; */
 }
 
 .card-title {
